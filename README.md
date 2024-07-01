@@ -17,8 +17,8 @@ I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Indust
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sajjathossainbd&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-Technologies used:
-------------------
+## :computer: Technologies used:
+
 
 ✅ **Industry Knowledge**: React.js, JavaScript, REST APIs, CSS3, Bootstrap, SASS, HTML5, Firebase etc. <br/>
 ✅**Technical Skills**: Typescript, JavaScript, Tailwind CSS, daisyUI, NPM, Node JS, Express JS, etc. <br/>
