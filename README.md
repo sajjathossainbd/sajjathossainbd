@@ -10,6 +10,13 @@ I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Indust
  
 *I am a quick learner. I believe in hard work and efficiency. I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 Technologies used:
 ------------------
 
