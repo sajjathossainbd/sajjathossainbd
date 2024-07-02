@@ -50,7 +50,7 @@ I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Indust
 <br/>
 
 
-### 🌱 I’m learning - In Self Learning
+### 🔭 I’m learning - In Self Learning
 ### 🌱 I’m exploring - Advanced Front End Developer for the web. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
