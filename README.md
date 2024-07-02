@@ -1,3 +1,5 @@
+
+
 ###  <h1 align="center" >Welcome to my profile</h1>
 <img src="https://i.ibb.co/tJc1n8T/1666174662118.jpg" />
 
@@ -41,11 +43,18 @@ I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Indust
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-
-
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjathossainbd)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+
+### 🌱 I’m learning - In Self Learning
+### 🌱 I’m exploring - Advanced Front End Developer for the web. 
+### 👯 I’m looking - To collaborate on open-source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love making complex origami and can speak 10 languages.
 
 <br/>
 
@@ -56,15 +65,6 @@ I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Indust
 <a href="https://www.youtube.com/c/sajjad sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajjad sadiq" height="30" width="40" /></a>
 </p>
 
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
