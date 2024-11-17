@@ -1,13 +1,15 @@
 
 
 ###  <h1 align="center" >Welcome to my profile</h1>
-<img src="https://i.ibb.co.com/hXn04fG/Linkedin-Banner-New.png" />
+<a href="https://sajjat-hossain.vercel.app/">
+<img src="https://i.ibb.co.com/LQwXxPP/Linkedin-Banner-New-Round.png" />
+</a>
 
 
 
 ### Hi there,👋
 
-I'm **Sajjat Hossain**, I have experience as **Front End Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Tailwind CSS, and API**. I consider myself a good honest hard-working **MEAN**. 
+I'm Sajjat Hossain, a Passionate 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 specializing in React and Next.js. I'm dedicated to building visually engaging, high-performance web applications that provide seamless user experiences across all devices. With a focus on scalable, user-centric solutions, I’m committed to elevating digital interactions for users and clients alike.
  
  
 *I am a quick learner. I believe in hard work and efficiency. I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
