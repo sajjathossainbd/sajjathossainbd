@@ -1,7 +1,7 @@
 
 
 ###  <h1 align="center" >Welcome to my profile</h1>
-<img src="https://i.ibb.co/tJc1n8T/1666174662118.jpg" />
+<img src="https://i.ibb.co.com/hXn04fG/Linkedin-Banner-New.png" />
 
 
 
